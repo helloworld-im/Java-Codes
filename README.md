@@ -1,2 +1,2 @@
 # Java-Codes
-Java Reference
+JHackkerrank Java codes
